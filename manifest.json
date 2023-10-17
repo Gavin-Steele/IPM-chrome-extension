@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,  
+    "name": "IPM - Request Referral",  
+    "description": "Extension for submitting a referral request to IPM",  
+    "version": "1.0",  
+    "action": {  
+        "default_icon": "logo.png",  
+        "default_popup": "index.html"  
+    },
+    "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ],  
+    "permissions": [  
+        "activeTab",
+        "tabs",
+        "storage"  
+    ]
+}
