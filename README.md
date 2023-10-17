@@ -29,6 +29,8 @@ If you visit LinkedIn now, with the extension enabled, you will see then names y
 
 ![image](https://github.com/Gavin-Steele/IPM-chrome-extension/assets/5500139/2c0334f9-a7ce-404e-bb51-0e60abf58d19)
 
-
+### Data across tabs
+1. You should be able to load the referral form on each tab and the data entered should be retained across tabs.
+2. The referral form will show the thank you message on submit, and the next time you click on the extension icon, you will get a new fresh form.
 
 Note: The extension runs from the local folder on your computer, so if you edit or remove those files, the extension will stop working.
