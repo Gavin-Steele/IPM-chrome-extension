@@ -34,3 +34,6 @@ If you visit LinkedIn now, with the extension enabled, you will see then names y
 2. The referral form will show the thank you message on submit, and the next time you click on the extension icon, you will get a new fresh form.
 
 Note: The extension runs from the local folder on your computer, so if you edit or remove those files, the extension will stop working.
+
+
+**This is a personal project, used to help me learn how to solve problems with code. This extension is not listed by me on any extension marketplace.**
